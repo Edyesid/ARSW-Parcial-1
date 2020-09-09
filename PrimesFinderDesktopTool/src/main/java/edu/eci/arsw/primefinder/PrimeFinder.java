@@ -15,7 +15,7 @@ public class PrimeFinder{
                 BigInteger a=_a;
                 BigInteger b=_b;
 
-                MathUtilities mt=new MathUtilities();
+                MathUtilities mt = new MathUtilities();
                 
                 int itCount=0;
             
