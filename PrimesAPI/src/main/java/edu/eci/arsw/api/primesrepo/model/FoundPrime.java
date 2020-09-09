@@ -14,7 +14,11 @@ public class FoundPrime
     {
     }
 
-    public String getUser()
+    public FoundPrime(int i) {
+    	prime = Integer.toString(i);
+	}
+
+	public String getUser()
     {
         return user;
     }
